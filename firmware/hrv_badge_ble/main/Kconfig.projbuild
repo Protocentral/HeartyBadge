@@ -1,0 +1,8 @@
+menu "HeartyPatch Configuration"
+
+config BLE_MODE_ENABLE
+	bool "Enable BLE mode"
+	help
+		Enable/Disable BLE mode
+
+endmenu
